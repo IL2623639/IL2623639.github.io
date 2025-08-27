@@ -1,5 +1,4 @@
-# Welcome to My Portfolio 
-Hello! My name is Bella.
+# Welcome to My Portfolio <br/>Hello! My name is Bella.
 
 ## Projects
 - Project 1: Description
