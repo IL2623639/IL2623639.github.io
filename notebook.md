@@ -1,5 +1,13 @@
 # My coding Notebook
 
+## Table of Contents
+- [Day 1](#day-1)
+  - [Notes](#notes)
+  - [Practice](#practice)
+- [Day 2](#day-2)
+
+[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+
 ## Day 1
 Notes for the day:
 
