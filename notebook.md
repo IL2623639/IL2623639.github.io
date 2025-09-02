@@ -8,8 +8,26 @@
 
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
+
+## Markdown Style Guide for Coding Notebooks
+
+Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
+This ensures your notes are easy for you (and others) to read later.
+
+---
+
+## 🔹 Headings
+**When to use:** Organize your notebook into sections (like days, topics, or projects).  
+- `#` for the notebook title (use once at the top).  
+- `##` for each day or major topic.  
+- `###` for subsections (like "Notes", "Practice", "Reflections").  
+
+✅ Example:
+
+
+# My Coding Notebook
 ## Day 1
-Notes for the day:
+### Notes
 
 ## Flutter Notes
 
@@ -47,25 +65,6 @@ Notes for the day:
 - How do you align something to the left or right?
 - What widget adds space around content?
 
-## Markdown Style Guide for Coding Notebooks
-
-Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
-This ensures your notes are easy for you (and others) to read later.
-
----
-
-## 🔹 Headings
-**When to use:** Organize your notebook into sections (like days, topics, or projects).  
-- `#` for the notebook title (use once at the top).  
-- `##` for each day or major topic.  
-- `###` for subsections (like "Notes", "Practice", "Reflections").  
-
-✅ Example:
-
-
-# My Coding Notebook
-## Day 1
-### Notes
 ### Practice
 
 🔡 Text Formatting
