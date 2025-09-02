@@ -32,8 +32,8 @@ This ensures your notes are easy for you (and others) to read later.
 ## Flutter Notes
 
 ### What is Flutter?
-- Definition:
-- Why is it useful?
+- Definition: A framework made by Google for building apps that work on web, Android, and iOS -- with one codebase/ Uses the DART programming language.
+- Why is it useful? It's less work and more efficient
 
 ---
 
@@ -48,15 +48,15 @@ This ensures your notes are easy for you (and others) to read later.
 | StatefulWidget   |                                                  |                                           |
 | Navigator        |                                                  |                                           |
 | AppBar           |                                                  |                                           |
-| Column           |                                                  |                                           |
-| Row              |                                                  |                                           |
-| Container        |                                                  |                                           |
-| Text             |                                                  |                                           |
-| Image.network    |                                                  |                                           |
+| Column           |                vertical layout                   |                                           |
+| Row              |              horizontal layout                   |                                           |
+| Container        |   wraps content with padding, margin, or color   |                                           |
+| Text             |                 displays test                    |                                           |
+| Image.network    |           displays images from a URL             |                                           |
 
-| Padding    |                    |                     |
+| Padding          |           adds space around a widget             |                                           |
 
-| Center |                        |                     |
+| Center           |                centers its child                 |                                           |
 
 ---
 
