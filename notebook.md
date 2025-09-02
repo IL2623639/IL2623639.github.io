@@ -41,13 +41,13 @@ This ensures your notes are easy for you (and others) to read later.
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
-| Scaffold         |                                                  |                                           |
-| StatelessWidget  |                                                  |                                           |
-| StatefulWidget   |                                                  |                                           |
-| Navigator        |                                                  |                                           |
-| AppBar           |                                                  |                                           |
+| Widget           |Basic building block of a Flutter app /Everything is a widget|    text, image, container, column    |
+| MaterialApp      |  the root of the app. sets up route and themes   |  found in main.dart     |
+| Scaffold         |  Provides basic visual layout -- like a header, body, floating button   |    each screen uses it  |
+| StatelessWidget  |  A widget that doesn't change  |Most of the screen files|
+| StatefulWidget   | A widget that can change over time  | Used in MyHOmePage() |
+| Navigator        | Manages screen transitions | Navigator.pushNamed (context, '/page2'); |
+| AppBar           | Top navigation bar |  title of each page apprears here |
 | Column           |                vertical layout                   |                                           |
 | Row              |              horizontal layout                   |                                           |
 | Container        |   wraps content with padding, margin, or color   |                                           |
