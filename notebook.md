@@ -5,7 +5,8 @@
   - [Notes](#notes)
   - [Practice](#practice)
 - [Day 2](#day-2)
- [Code Definitions](#code_definitions)
+
+  - [Code Definitions](##code-definitions)
 
 
 ## 🔹 Headings
@@ -226,9 +227,12 @@ Collapsible = Hide/Show detail
 Keep it simple, consistent, and clear.
 
 ## Day 2
+
+##Code Definitions
+
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
-|      | A named container used to store a value that may change. | `var x = 5;` |  |  |
+|  Variable  | A named container used to store a value that may change. | `var x = 5;` | age |  |
 |      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
 |      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
 |      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
